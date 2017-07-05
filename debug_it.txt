@@ -1,0 +1,3 @@
+image slider not going behind header and nav bar...---> done z-index changed...from 100% to 1;
+
+100% doesnt mean anything i guess...hhahahaaa :-P
